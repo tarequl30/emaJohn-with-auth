@@ -1,10 +1,9 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyBHhOX8rtp2vahVcATkhTD_7CwARw6arrk",
-    authDomain: "fire-auth2.firebaseapp.com",
-    databaseURL: "https://fire-auth2.firebaseio.com",
-    projectId: "fire-auth2",
-    storageBucket: "fire-auth2.appspot.com",
-    messagingSenderId: "587131087182",
-    appId: "1:587131087182:web:f7e53e9007fe7760d7561f"
-  };
-  export default firebaseConfig;
+  apiKey: "AIzaSyCO4gyXmy3lt2kNzxMVxRSB1S44reJTokQ",
+  authDomain: "fake-emajhon.firebaseapp.com",
+  projectId: "fake-emajhon",
+  storageBucket: "fake-emajhon.appspot.com",
+  messagingSenderId: "984680420494",
+  appId: "1:984680420494:web:c1d221a4eebc2a420c65df"
+};
+export default firebaseConfig;
